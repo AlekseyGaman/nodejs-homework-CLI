@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlekseyGaman/nodejs-homework.git"
+    "url": "git+https://github.com/AlekseyGaman/nodejs-homework-CLI.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlekseyGaman/nodejs-homework/issues"
+    "url": "https://github.com/AlekseyGaman/nodejs-homework-CLI/issues"
   },
-  "homepage": "https://github.com/AlekseyGaman/nodejs-homework#readme",
+  "homepage": "https://github.com/AlekseyGaman/nodejs-homework-CLI#readme",
   "devDependencies": {
     "nodemon": "^2.0.22"
   },
